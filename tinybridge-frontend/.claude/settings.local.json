@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/esap/Desktop/test/TinyBridge/docs/**)",
+      "Read(//Users/esap/Desktop/test/TinyBridge/tinybridge-backend/**)",
+      "Bash(source:*)",
+      "Bash(python:*)",
+      "Bash(curl:*)",
+      "Bash(tree:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
